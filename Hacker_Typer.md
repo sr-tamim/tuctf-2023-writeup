@@ -63,3 +63,5 @@ https://hacker-typer.tuctf.com
 
   ![image](https://github.com/sr-tamim/tuctf-2023-writeup/assets/86656406/116fa142-4800-4920-9c90-59d0df8abcfb)
 
+### Regards
+[**SR Tamim**](https://sr-tamim.vercel.app)
