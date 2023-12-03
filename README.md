@@ -13,6 +13,7 @@ A CTF is a competition where teams of hackers compete to solve challenges in cat
 
 ## Index
 1. [Hacker Typer](Hacker_Typer.md)
+2. [Plenty O Fish in the Sea](Plenty_O_Fish_in_the_sea.md)
 
 ### Regards
 SR Tamim
